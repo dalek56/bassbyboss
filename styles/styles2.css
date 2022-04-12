@@ -1,0 +1,20 @@
+.indent{
+    text-indent: 25px;
+}
+
+.center-graphic{
+    margin:auto;
+    max-width: 1000px;
+}
+
+.fontsans{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+  }
